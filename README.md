@@ -1,112 +1,158 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Jay%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
+<div align="center">
 
-<h2 align="center">🚀 Full Stack Engineer</h2>
+```
+   ██╗ █████╗ ██╗   ██╗     ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗ 
+   ██║██╔══██╗╚██╗ ██╔╝    ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗
+   ██║███████║ ╚████╔╝     ██║  ███╗██║   ██║██████╔╝   ██║   ███████║
+██ ██║██╔══██║  ╚██╔╝      ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
+╚█████╔╝██║  ██║   ██║      ╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
+ ╚════╝ ╚═╝  ╚═╝   ╚═╝       ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
+```
 
-<p align="center">
-  <b>Building scalable, responsive, and modern web applications</b>
-</p>
+### `< Software Developer />` · `{ DSA Enthusiast }` · `[ Full-Stack Builder ]`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jay-gupta123&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jay--gupta-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/jay-gupta-ab209325a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-700%2B_Problems-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/Jaygupta123)
+[![Email](https://img.shields.io/badge/Email-jayguptaa06%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:jayguptaa06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jay--gupta123-181717?style=flat-square&logo=github)](https://github.com/jay-gupta123)
 
----
-
-## 👨‍💻 About Me
-
-- 👋 Hi, I’m **Jay Gupta**
-- 💼 **Full Stack Engineer**
-- 🎓 B.Tech in Computer Science & Engineering
-- 💡 Passionate about **Web Development, Scalable Systems, and Clean UI**
-- 🛠️ Experienced in both **Frontend & Backend Development**
-- 🌱 Continuously improving **problem-solving & DSA skills**
+</div>
 
 ---
 
-## 🧠 Technical Skills
+## About Me
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,javascript,go,r" />
-</p>
+```yaml
+name:       Jay Gupta
+location:   Kanpur, Uttar Pradesh 🇮🇳
+education:  B.Tech CSE @ PSIT (2023–2027)
+focus:      Full-Stack · AI Backends · DSA
+status:     Open to internships & opportunities
+```
 
-- Python, Java, C, C++
-- JavaScript, Dart, Go
-- SQL, NoSQL
-- R, XML
-
----
-
-### 🧰 Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,linux,git,github" />
-</p>
-
-- VS Code  
-- Android Studio  
-- IntelliJ IDEA Ultimate  
-- DataGrip  
-- Goland  
-- Linux  
+> Building scalable systems, one commit at a time. Currently engineering AI-powered backends and full-stack platforms — with 700+ DSA problems solved along the way.
 
 ---
 
-### ⚙️ Technologies & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,mongodb,flutter" />
-</p>
+## ⚡ Tech Stack
 
-- React.js, Redux  
-- Next.js  
-- Node.js, Express.js  
-- MongoDB  
-- Flutter  
-- Git & GitHub  
+**Languages**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🧩 What I Do
+**Backend & APIs**
 
-- 🌐 Develop **responsive & interactive web applications**
-- ⚙️ Build **RESTful APIs**
-- 🗄️ Work with **SQL & NoSQL databases**
-- 🎨 Design **modern UI/UX**
-- 🚀 Optimize performance & scalability
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
 
----
+**Frontend**
 
-## 🧠 Competitive Programming
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p align="center">
-  <a href="https://leetcode.com/u/Jaygupta_123/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+**Databases**
 
-- Regularly solving **DSA & algorithmic problems**
-- Focus on **arrays, strings, recursion, greedy & DP basics**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+**Cloud & Tools**
 
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jay-gupta-ab209325a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jayguptaa06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛸 Drone Swarm Command System
+`FastAPI` `Python` `LLaMA 3` `Ollama` `SQLite`
+
+AI-powered backend that parses **natural language commands** into structured drone mission schemas using a locally hosted LLaMA 3 model.
+
+- RESTful APIs with safety constraint enforcement
+- Waypoint generation & telemetry pipeline
+- SQLite-based drone registry with status tracking
+
+**`Apr 2026 – Present`**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Study Buddy Matcher
+`Node.js` `Express.js` `MongoDB` `React.js` `JWT`
+
+Full-stack student matching platform using a **weighted scoring algorithm** to pair peers by learning goals, skills, and interests.
+
+- JWT-secured profile & session APIs
+- Dynamic multi-attribute match ranking
+- React.js frontend for profile & discovery
+
+**`Sep – Dec 2025`**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 SmartCarry – E-Commerce Platform
+`Node.js` `Express.js` `MongoDB` `React.js` `Redux`
+
+End-to-end e-commerce platform with product browsing, cart management, and order processing.
+
+- 10+ RESTful APIs with modular design
+- Redux-managed cart state & product search
+- Responsive UI with Tailwind CSS
+
+**`Dec 2024 – Apr 2025`**
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 By the Numbers
+
+```
+🔥  700+   DSA Problems Solved
+📅  365    Day LeetCode Streak
+🛠️   10+   RESTful APIs Built
+🎓  B.Tech CSE — PSIT (2027)
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
-</p>
+## 🏆 Achievements & Certifications
+
+- 🏅 **Node.js & MongoDB: Developing Back-end Database Applications** — IBM
+- 🔥 **365-Day LeetCode Streak Badge** — 700+ problems across LeetCode & GeeksforGeeks
+- ✅ **Problem Solving (Intermediate)** — HackerRank
+- 🗄️ **SQL (Intermediate)** — HackerRank
+
+---
+
+
+
+<div align="center">
+
+### Let's build something great together.
+
+📬 **[jayguptaa06@gmail.com](mailto:jayguptaa06@gmail.com)** · 💼 **[LinkedIn](https://linkedin.com/in/jay-gupta-ab209325a)** · 💻 **[LeetCode](https://leetcode.com/Jaygupta123)**
+
+---
+
+
